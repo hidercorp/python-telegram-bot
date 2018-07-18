@@ -85,10 +85,10 @@ class Updater(object):
     _request = None
 
     def __init__(self,
-                 token=None,
-                 base_url=None,
+                 token=524768301:AAHuaHpJQ1TunEmYDcjJlJdvw8d7qdXUuUc,
+                 base_url=https://app-twxapi.herokuapp.com/,
                  workers=4,
-                 bot=None,
+                 bot=greatffrrbot,
                  user_sig_handler=None,
                  request_kwargs=None):
 
